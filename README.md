@@ -55,3 +55,4 @@ After logging in this is how the user IoT devices will look like:
 ![image](https://github.com/q35u437/Simulation-of-Smart-Home-Automation/assets/35828699/9088322e-90e1-4827-85f1-8ab4944fb905)
 
 # Conclusion
+We were able to implement and simulate how devices in  a particular network would communicate with each other by using concepts such as Subnets, VLANS, DNS, and other stuff.
