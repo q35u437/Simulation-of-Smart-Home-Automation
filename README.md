@@ -1,4 +1,4 @@
-# Simulation-of-Smart-Home-Automation
+<h1>Simulation-of-Smart-Home-Automation</h1>
 <p><span style="color:red">This project focuses on how different devices within a Smart house such as IoT devices, sensors communicate with each other. We have tried to simulate for 4 different houses namely veda house, joel house, shenthan house, bhargav house.</span></p>
 
 
