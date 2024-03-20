@@ -1,6 +1,6 @@
 # Simulation-of-Smart-Home-Automation
-<p style="color:red">This project focuses on how different devices with in a Smart house such as IoT devices, sensor communicate with each other. We have tried to smilaute for 4 different houses namely veda house,
-joel house, shenthan house, bhargav house. </p>
+<p><span style="color:red">This project focuses on how different devices within a Smart house such as IoT devices, sensors communicate with each other. We have tried to simulate for 4 different houses namely veda house, joel house, shenthan house, bhargav house.</span></p>
+
 
 
 The subnets used for each house are: <br/>
