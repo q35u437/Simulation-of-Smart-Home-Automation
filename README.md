@@ -17,3 +17,6 @@ assigned IP addresses for enhanced control and monitoring.
 
 <a href="https://www.pinterest.com.au/pin/sykati--508906826651757404/">The template for the background can be found here</a>
 
+This is how a single house would look like:
+
+![image](https://github.com/q35u437/Simulation-of-Smart-Home-Automation/assets/35828699/ccf80a14-a5cc-454b-8928-716829e48fce)
