@@ -45,3 +45,13 @@ We have used two DNS servers one for name resolution, one for running the IoT se
 
 Users opens his web browser or the IoT application in his phone and authenticates himself using id and password. Then he will get the state of all devices in his phone currently.
 
+
+Accesing the web page using web client.
+
+![image](https://github.com/q35u437/Simulation-of-Smart-Home-Automation/assets/35828699/02c3e06b-50a1-40dc-b3e7-b3615023fc3c)
+
+After logging in this is how the user IoT devices will look like:
+
+![image](https://github.com/q35u437/Simulation-of-Smart-Home-Automation/assets/35828699/9088322e-90e1-4827-85f1-8ab4944fb905)
+
+# Conclusion
