@@ -4,9 +4,9 @@ joel house, shenthan house, bhargav house.
 
 
 The subnets used for each house are:
-Veda House adopts the subnet 172.17.68.1/26 \n
-Shenthan House adopts 172.17.68.65/26 \n
-Joel House adopts 172.17.68.129/26 \n
+Veda House adopts the subnet 172.17.68.1/26 <br/>
+Shenthan House adopts 172.17.68.65/26 <br/>
+Joel House adopts 172.17.68.129/26 <br/>
 Bhargav House adopts 172.17.68.203/26.
 
 The project mandates static IP address assignment, foregoing DHCP, for all devices.
