@@ -1,5 +1,5 @@
 <h1>Simulation-of-Smart-Home-Automation</h1>
-<p><span style="color:red">This project focuses on how different devices within a Smart house such as IoT devices, sensors communicate with each other. We have tried to simulate for 4 different houses namely veda house, joel house, shenthan house, bhargav house.</span></p>
+This project focuses on how different devices within a Smart house such as IoT devices, sensors communicate with each other. We have tried to simulate for 4 different houses namely veda house, joel house, shenthan house, bhargav house.
 
 
 
@@ -15,4 +15,5 @@ monitoring and control.This comprehensive approach aims to create a secure,
 interconnected smart home ecosystem across the four houses with statically
 assigned IP addresses for enhanced control and monitoring.
 
-<a href="https://www.w3schools.com/html/html_styles.asp">adasd</a>
+<a href="[https://www.w3schools.com/html/html_styles.asp](https://www.pinterest.com.au/pin/sykati--508906826651757404/)https://www.pinterest.com.au/pin/sykati--508906826651757404/">The template for the background can be found here</a>
+
