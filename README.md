@@ -3,7 +3,7 @@ This project focuses on how different devices with in a Smart house such as IoT 
 joel house, shenthan house, bhargav house.
 
 
-The subnets used for each house are:
+The subnets used for each house are: <br/>
 Veda House adopts the subnet 172.17.68.1/26 <br/>
 Shenthan House adopts 172.17.68.65/26 <br/>
 Joel House adopts 172.17.68.129/26 <br/>
