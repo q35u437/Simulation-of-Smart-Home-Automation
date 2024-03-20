@@ -19,14 +19,17 @@ Ip address configuration used for veda house:<br/>
 IP ADDRESS BLOCK: 192.168.1.0/24<br/>
 SUBNET MASK: 2255.255.255.0<br/>
 RANGE: 192.168.1.1-192.168.1.62<br/>
+
 Ip address configuration used for shenthan house:<br/>
 IP ADDRESS BLOCK: 192.168.1.0/24<br/>
 SUIBNET MASK: 255.255.255.0<br/>
 RANGE: 192.168.1.65-192.168.1.126<br/>
+
 Ip address configuration used for bhargav house:<br/>
 IP ADDRESS BLOCK: 192.168.2.0/24<br/>
 SUBNET MASK: 255.255.255.0<br/>
 RANGE: 192.168.2.1-192.168.2.62<br/>
+
 Ip address configuration used for joel house:<br/>
 IP ADDRESS BLOCK: 192.168.2.0/24<br/>
 SUBNET MASK: 255.255.255.0<br/>
