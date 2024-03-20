@@ -14,3 +14,5 @@ Additionally, SSH is configured on routers for remote login, fostering secure
 monitoring and control.This comprehensive approach aims to create a secure,
 interconnected smart home ecosystem across the four houses with statically
 assigned IP addresses for enhanced control and monitoring.
+
+<a href="https://www.w3schools.com/html/html_styles.asp">adasd</a>
